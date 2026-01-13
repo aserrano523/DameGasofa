@@ -1,7 +1,5 @@
 # DameGasofa
-## Gasolineras & Rutas
-
-**Gasolineras y rutas inteligentes**
+***Gasolineras & Rutas***
 
 DameGasofa es una aplicación web desarrollada en React que permite localizar gasolineras cercanas, identificar la más barata según un radio y tipo de combustible, y planificar rutas mostrando estaciones de servicio a lo largo del trayecto. La aplicación integra APIs externas de geolocalización y cartografía, y presenta los resultados de forma visual e interactiva sobre un mapa.
 
